@@ -1,0 +1,10 @@
+{
+	"id": "journal-prompts",
+	"name": "Journal Prompts",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Get a random journal prompt to inspire creativity.",
+	"author": "Eddie Wen",
+	"authorUrl": "https://realwya.notion.site",
+	"isDesktopOnly": false
+}

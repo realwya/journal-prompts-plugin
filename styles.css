@@ -1,0 +1,39 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+.prompt-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  color: var(--color-cyan);
+background-color: rgba(var(--color-cyan-rgb), 0.2);
+}
+
+.prompt-container p {
+  flex-grow: 1;
+  margin-right: 10px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.button-container button {
+  margin-left: 10px;
+}
+
+.prompt-container .clickable-icon {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 4px;
+  color: var(--color-cyan);
+}
