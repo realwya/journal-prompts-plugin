@@ -11,8 +11,8 @@ This plugin for Obsidian is designed to enhance your journaling experience by pr
 ## How to Use
 
 1. Install and enable the plugin in Obsidian.
-2. A default prompts library called "Journal Prompts Lirary" will be created. You can modify it by yourself. Every line of text in that file will be treated as a prompt.
-3. Open the Journal Prompts modal using the command palette or the ribbon icon.
+2. A default prompts library called "Journal Prompts Lirary" will be created. The prompts list is from a [reddit post](https://www.reddit.com/r/Journaling/comments/r7bsmz/long_list_of_journal_prompts/). You can modify it by yourself. Every line of texts in that file will be treated as a prompt.
+3. Open the Journal Prompts modal using the command "Get Journal Prompt" or the ribbon icon.
 4. Click the "Refresh" button to generate a new random prompt.
 5. Click the "Insert" button to add the displayed prompt to your note:
     - If a note is currently open, the prompt will be inserted at the cursor position.
